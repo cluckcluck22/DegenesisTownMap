@@ -1,0 +1,8 @@
+{
+  "points": [
+    {"name":"Location A","lat":47.800689,"lon": 13.075878 ,"Description":"A location description"},
+    {"name":"Location B","lat":47.800789,"lon": 13.004878 ,"Description": "B location description"},
+    {"name":"Location C","lat":47.800889,"lon": 13.033878 ,"Description": "C location description"}
+  ],
+  "numberOfPoints" : 3
+}

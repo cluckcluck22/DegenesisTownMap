@@ -1,0 +1,19 @@
+#Title {
+    background-color: #750f01;
+    text-align: center;
+    height: 10%;
+}
+#Title #TitleText {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+body {
+    margin: 0px;
+}
+
+#map {
+                width: 100%;
+                height: 90%;
+            }
