@@ -3,3 +3,5 @@ A web interface to allow players of the RPG Degenesis to get map data of the tow
 
 Best run in firefox for color correctness.
 
+A running demo can be found at
+http://gameplayplanner.com/Degenesis/
