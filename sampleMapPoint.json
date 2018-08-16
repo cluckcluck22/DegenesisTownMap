@@ -1,8 +1,30 @@
 {
-  "points": [
-    {"name":"Location A","lat":47.800689,"lon": 13.075878 ,"Description":"A location description"},
-    {"name":"Location B","lat":47.800789,"lon": 13.004878 ,"Description": "B location description"},
-    {"name":"Location C","lat":47.800889,"lon": 13.033878 ,"Description": "C location description"}
-  ],
-  "numberOfPoints" : 3
+    "points": [
+        {"name":"","lat":47.818749,"lon": 12.982130 ,"Description":"<h1>Jasmine’s Herbal Remedies</h1><p>A small shop filled with a wide varietry of herbs and concoctions. Run by Jasmine herself, the shop can often be found by following your nose through the street's of Raven's claw as the pungent smell of herbs guides your way.</p>"},
+        
+        {"name":"Hellvetic Base","lat":47.767086,"lon":  13.040842 , "Description":"<h1>Hellvetic Base</h1><p>The main base of operation for the Hellvetics in the region surrounding Raven's claw.</p>"},
+        
+        {"name":"Meeting Room","lat":47.800889,"lon": 13.033878 , "Description": "<h1>Meeting Room</h1><p>Raven’s Claw is led by a group of members that represent the interests of the cult of the city. Each is out for the interests of his cult, but they all keep note of the survival of the town. The room is small, heavily guarded, and only has one door to enter the room. The room has a table that members sit around, discussing the problems of the cults they represent. Most members can be found her in the afternoon</p>"},
+        
+        {"name":"Scrapper Cult Center","lat":47.801372,"lon": 13.030302 , "Description": "<h1>Scrapper Cult Center</h1><p>Scrappers need a place to go, and so they find one. Located in the heart of the busier districts, the Scrapper Cult Center is a meeting place for the Scrappers. Information and goods are sold, equipment is fixed, and sleeping quarters can be arranged for those who don’t have interest in the life of the city.</p>"},
+        
+        {"name":"The Nest","lat":47.803291,"lon": 13.030609 , "Description": "<h1>The Nest</h1><p>Home of the Birds, the nest is the meeting point for all Apochalyptian business. Whether it is the trading of information, drugs, or favors, this is the place to do it. For outsiders, there is not much to see, a few scattered rooms and a main meeting hall. But beyond the walls of the main meeting room is a labyrinth of rooms and tunnels that extends the cults reach many city blocks. Dealers of Burn and drugs, favors and info, along with gear and supplies can all be found down here, just beyond the sight of the common folk. For those that are trusted they are let in on the secret of the birds, gaining access to the local black market in the process..</p>"},
+        
+        {"name":"Home Base","lat":47.766089,"lon": 13.038098 , "Description": "<h1>Home Base</h1>"},
+        
+        {"name":"The Blooming Lotus","lat":47.797934,"lon": 13.030951, "Description": "<h1>The Blooming Lotus</h1><p>The blooming lotus is the pleasure house of the Town. Run by Apochalyptians for all, this establishment serves as a central point of information gathering and fundraising for the cult. The building is unnaturally warm, heated by a central heating unit stored in the buildings basement. The sounds of pleasure fill the halls, some of it vanilla, some of it not. Each of the workers has stories to tell, and information to hide. Might be a useful spot of interest for the players.</p>"},
+        
+        {"name":"The Shaft","lat":47.797934,"lon": 13.020951, "Description": "<h1>The Shaft</h1><p>Nobody knows what the shaft was for. A long rectangular shaft that extends into the ground, the hole was a mystery to the Scrappers who found it. Many have tried to explore it, but not have found it’s bottom. It must be at least forty stories deep.</p>"},
+        
+        {"name":"Central Library","lat":47.810903,"lon":13.034091 , "Description": "<h1>Central Library</h1><p>Near the center of town lies a building that has remained untouched by the rest of the cities development. Smelling of dust and mildew, the rows of books leads any onlookers to believe the place was one of knowledge. Very few make use of the building, which is relatively solid condition. Whether this is due to the lack of need or the Chronicler is up for debate. Here the only Chronicler can be found in the city. Streamer Fuse. He can be found roaming the halls, opening books and organizing them as he goes. He’s looking for something, but most don’t know what that could be.</p>"},
+        
+        {"name":"Abandoned Marina","lat":47.802784,"lon": 13.039152 , "Description": "<h1>Abandoned Marina</h1><p>In such a large town with a river that runs through it, there lies an old Marina that have long since been out of use. Many boats lie damaged in the old murky waters. A few repaired boats sail through the waters, carrying supplies and people up and down the river, maybe something more lies in this location. Maybe it should be looked into.</p>"},
+        
+        {"name":"The Fight Pit","lat":47.797443,"lon": 13.033070 , "Description": "<h1>The Fight Pit</h1><p>The fight pit is a fight arena set up in the basement of a large skyscraper. A ring of bleachers surrounds a fenced in fight area with two gates to get in. Usually run in the evening, the fight pit is the place to be for brutal fights and the mortal killing of your opponents.</p>"},
+        
+        
+        {"name":"Hunters Lodge","lat":47.817496,"lon": 12.981405 , "Description": "<h1>Hunter's Lodge</h1>"}
+        
+    ],
+    "numberOfPoints" : 13
 }
